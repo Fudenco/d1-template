@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "d1-template",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "c82b4b77-4582-41bf-bda7-9ef3a2d2c2a4",
+      "database_name": "Educoin"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
